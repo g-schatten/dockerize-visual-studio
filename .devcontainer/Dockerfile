@@ -1,2 +1,2 @@
-FROM node:12.16.1-stretch
+FROM node:20.10.0
 RUN npm install -g prettier
